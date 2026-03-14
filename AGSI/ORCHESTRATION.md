@@ -99,6 +99,13 @@ Each agent has their own MISSION.md with specific goals. I coordinate them all.
 - **NEVER require training for certification**
 - *See: agents/training/MISSION.md*
 
+### Product Discovery Agent
+- Reach out to stakeholders (technicians, business owners, manufacturers, insurers, HOAs)
+- Gather feedback on certification value
+- Identify product-market fit gaps
+- Investigate new product opportunities (training, business startup, etc.)
+- *See: agents/product-discovery/MISSION.md*
+
 ## Current Priorities
 
 1. **Get first 25 founding cohort members** - Critical mass creates social proof
