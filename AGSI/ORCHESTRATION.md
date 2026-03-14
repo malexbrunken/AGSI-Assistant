@@ -12,7 +12,8 @@ AGSI (Company)
 │   ├── SME Interface Agent
 │   ├── Compliance Manager Agent
 │   ├── Training Agent
-│   └── Product Discovery Agent
+│   ├── Product Discovery Agent
+│   └── Customer Lifecycle Agent
 ```
 
 ## Goal Hierarchy
@@ -31,6 +32,7 @@ Every agent's work traces back to the company goal: **Grow AGSI to $500K+ ARR**
 - **Compliance**: Achieve ANAB accreditation
 - **Training**: Provide free prep resources (not required)
 - **Product Discovery**: Maintain product-market fit
+- **Customer Lifecycle**: Track customers from lead to renewal
 
 ### Agent Tasks
 Each agent has specific tasks they work on autonomously, escalating only when needed.
