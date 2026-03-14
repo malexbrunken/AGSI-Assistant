@@ -45,6 +45,19 @@ Every grill service professional earned their credential. Every consumer can ver
 - SEO strategy: Create consumer demand ("Ask if your technician is AGSI certified")
 - When customers ask, service companies will need to respond
 
+## Accreditation Requirements
+
+### ANAB Timeline
+- Year 1: Initial test data collection (current)
+- Year 2: Must involve SMEs in question development
+- ~Month 10: ANAB audit
+
+### Exam Preparedness
+- Open-book exam (90 minutes)
+- Candidates can use: Google, Gemini, NotebookLM, video overviews, slides
+- Study materials aligned with BOK sections
+- Goal: test applied judgment, not memorization
+
 ## Technical Stack
 
 - **Website**: Squarespace (MVP, needs rebuild)

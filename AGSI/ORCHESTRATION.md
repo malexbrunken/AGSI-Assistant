@@ -42,6 +42,22 @@ Annual: CE Renewal Tracking → Database (future)
 - Answer questions
 - Handle issues
 
+### SME Interface Agent
+- Recruit and manage Subject Matter Experts
+- Coordinate question development with SMEs
+- Maintain and iterate the Book of Knowledge (BOK)
+
+### Compliance Manager Agent
+- ANAB audit preparation (due ~10 months)
+- Document SME involvement in question creation
+- Track question pass rates and BOK mapping
+- Ensure ISO/IEC 17024 compliance
+
+### Training Agent
+- Create exam preparation materials
+- Develop video overviews and study guides
+- Structure materials by BOK section
+
 ## Current Priorities
 
 1. **Get first 25 founding cohort members** - Critical mass creates social proof
