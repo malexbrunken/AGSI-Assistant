@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "larry": {
+      "version": "1.0.0",
+      "installedAt": 1773498775980
+    },
+    "larrybrain": {
+      "version": "1.5.3",
+      "installedAt": 1773498806490
+    }
+  }
+}
