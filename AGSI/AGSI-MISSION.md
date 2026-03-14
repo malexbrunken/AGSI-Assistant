@@ -2,76 +2,43 @@
 
 ## Mission Statement
 
-To establish the grill service industry as a recognized profession through rigorous, independent certification that protects consumers, validates professionals, and elevates the entire industry.
+**To make AGSI certification the definitive credential that proves a grill service professional is competent, safe, and trustworthy—so consumers can verify expertise, professionals can demonstrate value, and the entire industry rises to a higher standard.**
 
-## Vision
+## Supporting Principles
 
-Every grill service professional earned their credential. Every consumer can verify competence. AGSI becomes the definitive standard—like ASE for automotive or MD for medicine.
+1. **Certification is earned, not purchased.** We don't do pay-to-play. Passing isn't guaranteed.
+2. **Independence first.** We don't train, we don't sell equipment—we only test. No conflicts of interest.
+3. **Standards over shortcuts.** We're building toward ANAB accreditation because shortcuts got the industry into its current state.
+4. **The professional deserves recognition.** Good technicians can now prove their worth. Bad actors can no longer hide.
+5. **Consumer protection through verification.** When customers ask "Is your technician certified?" they should get a clear, verifiable answer.
 
-## Core Values
+## What Success Looks Like
 
-1. **Integrity** - Certification is earned, not purchased. We don't do pay-to-play.
-2. **Independence** - No conflicts of interest with training providers or manufacturers.
-3. **Standards-Based** - Exam-based, ISO 17024 aligned, defensible.
-4. **Professional Respect** - We elevate the trade, not just credential individuals.
+- **Consumers**: Can easily verify if their technician holds AGSI certification
+- **Technicians**: Can command premium rates by proving competence
+- **Employers/Insurers**: Have an objective standard for hiring and risk management
+- **Industry**: Professionalization through verified competency, not marketing claims
 
-## Target Outcomes
+## Anti-Goals (What We Won't Do)
 
-- **Near-term**: Get founding cohort (25 technicians) certified to establish credibility
-- **Mid-term**: Company certification program adoption by franchise networks
-- **Long-term**: ANAB accreditation, industry-wide recognition, $500K+ ARR
+- ❌ Pay-to-play certification (anyone can buy a cert without testing)
+- ❌ Training conflicts (we test, we don't teach)
+- ❌ Manufacturer bias (we don't favor any brand)
+- ❌ Shortcuts to accreditation (ANAB compliance matters)
+- ❌ Selling personal data (we protect candidate information)
 
-## Revenue Streams
+## Near-Term Priorities
 
-| Product | Price | Target |
-|---------|-------|--------|
-| CGCT (Level 1) | $499/3yr | Individual technicians |
-| CAGST (Level 2) | $499/3yr | Advanced technicians |
-| Founding Cohort | $299/3yr | First 25 (limited) |
-| Company Certification | $6K+/yr | Franchises & networks |
-| Study Guide | TBD | Exam prep |
+1. **Founding Cohort**: Get 25 technicians certified to establish credibility
+2. **ANAB Prep**: Build SME involvement and compliance documentation
+3. **Market Education**: SEO content that creates consumer demand for certified techs
+4. **Infrastructure**: Database for verification and CE tracking
 
-## Current Status (March 2026)
+## Growth Trajectory
 
-- **Certified**: 3 technicians
-- **Paid, not certified**: 1 technician
-- **Revenue**: Profitable (costs ~$200/year + tokens)
-- **Founder**: Matthew Brunken (also runs Houston Grill Clean)
-
-## Key Dynamics
-
-- Competitors waiting for "others to join first" - social proof barrier
-- Pricing not an objection - clarity and credibility are
-- SEO strategy: Create consumer demand ("Ask if your technician is AGSI certified")
-- When customers ask, service companies will need to respond
-
-## Accreditation Requirements
-
-### ANAB Timeline
-- Year 1: Initial test data collection (current)
-- Year 2: Must involve SMEs in question development
-- ~Month 10: ANAB audit
-
-### Exam Preparedness
-- Open-book exam (90 minutes)
-- Candidates can use: Google, Gemini, NotebookLM, video overviews, slides
-- Study materials aligned with BOK sections
-- Goal: test applied judgment, not memorization
-
-## Technical Stack
-
-- **Website**: Squarespace (MVP, needs rebuild)
-- **Exams**: ClassMarker ($20/month, white-labeled)
-- **Payments**: Squarespace Commerce
-- **Future**: Need database for CE tracking, verification directory, API capabilities
-
-## Growth Levers
-
-1. **Founder credibility** - Matt is known in Houston grill community
-2. **SEO content** - Long-tail keywords in major markets
-3. **Consumer pressure** - When customers ask for certified techs, companies must respond
-4. **Company certification** - Scalable B2B revenue
-
-## Competition
-
-None directly. Grill service is fragmented with no recognized standards. Opportunity to define the category.
+| Phase | Goal |
+|-------|------|
+| Year 1 | Launch, build test data, first cohort |
+| Year 2 | Expand to 100+ technicians, company certification launch |
+| Year 3 | ANAB accreditation, 500+ technicians |
+| Year 5 | Industry standard, $500K+ ARR, franchise adoption |
