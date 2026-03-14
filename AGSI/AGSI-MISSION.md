@@ -1,44 +1,70 @@
 # AGSI - American Grill Service Institute
 
-## Mission Statement
+## Company Goal
 
-**To make AGSI certification the definitive credential that proves a grill service professional is competent, safe, and trustworthy—so consumers can verify expertise, professionals can demonstrate value, and the entire industry rises to a higher standard.**
+**Grow AGSI into a $500K+ ARR business while maintaining integrity and advancing the profession of grill service.**
 
-## Supporting Principles
+This goal traces through every agent and task in the company.
 
-1. **Certification is earned, not purchased.** We don't do pay-to-play. Passing isn't guaranteed.
-2. **Independence first.** We don't train, we don't sell equipment—we only test. No conflicts of interest.
-3. **Standards over shortcuts.** We're building toward ANAB accreditation because shortcuts got the industry into its current state.
-4. **The professional deserves recognition.** Good technicians can now prove their worth. Bad actors can no longer hide.
-5. **Consumer protection through verification.** When customers ask "Is your technician certified?" they should get a clear, verifiable answer.
+## Company Overview
 
-## What Success Looks Like
+| Attribute | Value |
+|-----------|-------|
+| Industry | Professional Certification |
+| Stage | Pre-revenue to Scaling |
+| Revenue Target | $500K+ ARR |
+| Accreditation | ANAB (in progress) |
 
-- **Consumers**: Can easily verify if their technician holds AGSI certification
-- **Technicians**: Can command premium rates by proving competence
-- **Employers/Insurers**: Have an objective standard for hiring and risk management
-- **Industry**: Professionalization through verified competency, not marketing claims
+## Core Principles
 
-## Anti-Goals (What We Won't Do)
+1. **Certification is earned, not purchased** — No pay-to-play
+2. **Independence first** — We test, we don't train or sell equipment
+3. **Standards over shortcuts** — ANAB accreditation matters
+4. **Professionals deserve recognition** — Good techs can prove their worth
+5. **Consumer protection** — Easy verification
 
-- ❌ Pay-to-play certification (anyone can buy a cert without testing)
-- ❌ Training conflicts (we test, we don't teach)
-- ❌ Manufacturer bias (we don't favor any brand)
-- ❌ Shortcuts to accreditation (ANAB compliance matters)
-- ❌ Selling personal data (we protect candidate information)
+## Product-Market Fit
 
-## Near-Term Priorities
+- **Problem**: No recognized standards for grill service technicians
+- **Solution**: Independent, exam-based certification
+- **Target**: Technicians, Employers/Insurers, Consumers
+- **Differentiation**: ANAB-accredited, ISO 17024 aligned, not pay-to-play
 
-1. **Founding Cohort**: Get 25 technicians certified to establish credibility
-2. **ANAB Prep**: Build SME involvement and compliance documentation
-3. **Market Education**: SEO content that creates consumer demand for certified techs
-4. **Infrastructure**: Database for verification and CE tracking
+## Revenue Streams
 
-## Growth Trajectory
+| Product | Price | Target |
+|---------|-------|--------|
+| CGCT (Level 1) | $499/3yr | Individual technicians |
+| CAGST (Level 2) | $499/3yr | Advanced technicians |
+| Founding Cohort | $299/3yr | First 25 (limited) |
+| Company Certification | $6K+/yr | Franchises & networks |
+| Study Guide | $19 | Exam prep |
 
-| Phase | Goal |
-|-------|------|
-| Year 1 | Launch, build test data, first cohort |
-| Year 2 | Expand to 100+ technicians, company certification launch |
-| Year 3 | ANAB accreditation, 500+ technicians |
-| Year 5 | Industry standard, $500K+ ARR, franchise adoption |
+## Technical Stack
+
+- **Website**: Squarespace (Core plan with API)
+- **Exams**: ClassMarker
+- **Database**: TiDB Cloud (PostgreSQL compatible)
+- **Email**: AgentMail (agsi-assistant@agentmail.to)
+- **Search**: Brave API
+- **Memory**: Supermemory + file-based
+
+## Governance
+
+### Budgets
+
+- Monthly marketing budget: TBD
+- Agent operation costs: Minimal (API calls only)
+- No runaway spending allowed
+
+### Policies
+
+All company policies are documented in `POLICIES.md`:
+- Policy 001: Not Pay-to-Play
+- Policy 002: Exam Retake Policy
+
+### Compliance
+
+- ANAB audit: ~10 months away
+- ISO/IEC 17024 alignment required
+- SME involvement needed for Year 2
